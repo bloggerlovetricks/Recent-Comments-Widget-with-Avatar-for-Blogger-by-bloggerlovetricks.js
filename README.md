@@ -1,4 +1,4 @@
-Recent-Comments-Widget-
+Blogger-Widgets
 =======================
 
-Recent Comments Widget with Avatar for Blogger by |blt|Bloggerlovetricks 
+Blogger Widget by |blt|Bloggerlovetricks 
